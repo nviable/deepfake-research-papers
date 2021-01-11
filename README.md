@@ -41,6 +41,7 @@ the DeepFake Detection Task]()
 31. [EXPOSING GAN-GENERATED FACES USING INCONSISTENT CORNEAL SPECULAR HIGHLIGHTS]()
 32. [Exploiting Human Social Cognition for the Detection of Fake and Fraudulent Faces via Memory Networks]()
 33. [Cost Sensitive Optimization of Deepfake Detector]()
+34. [Deepfake Detection Based on No-Reference Image Quality Assessment (NR-IQA)](https://www.airitilibrary.com/Publication/alDetailedMesh?docid=P20151216002-202012-202012280001-202012280001-29-38)
 
 ### Biometrics
 =====================================================
