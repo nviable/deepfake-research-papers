@@ -1,7 +1,9 @@
 # deepfake-research-papers
 Listing out research papers here for reading. Overtime I'll probably organize them with summaries, not sure if that will ever materialize though.
 
-Images
+## Detection
+
+### Images
 =====================================================
 1. [FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/pdf/1901.08971.pdf)
 2. [Mesonet: A Compact Facial Video Forgery Detection Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8630761)
@@ -40,7 +42,7 @@ the DeepFake Detection Task]()
 32. [Exploiting Human Social Cognition for the Detection of Fake and Fraudulent Faces via Memory Networks]()
 33. [Cost Sensitive Optimization of Deepfake Detector]()
 
-Biometrics
+### Biometrics
 =====================================================
 1. [In ictu oculi: Exposing AI Generated Fake Face Videos by Detecting Eye Blinking](https://arxiv.org/pdf/1806.02877.pdf&xid=17259,15700023,15700124,15700149,15700168,15700173,15700186,15700190,15700201.pdf)
 2. [FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals](https://arxiv.org/pdf/1901.02212.pdf)
@@ -50,7 +52,7 @@ Biometrics
 6. [Where Do Deep Fakes Look? Synthetic Face Detection via Gaze Tracking
 ](https://arxiv.org/pdf/2101.01165.pdf)
 
-Applications
+### Applications
 ======================================================
 
 - [Reality Defender 2020](https://rd2020.org/)
